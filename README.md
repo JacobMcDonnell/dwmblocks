@@ -6,4 +6,4 @@ Modular status bar for dwm written in c.
 
 The statusbar is made from text output from commandline programs.
 
-Blocks are added and removed by editing the config.h header file.
+Blocks are added and removed by editing the blocks.h header file.
